@@ -1,8 +1,8 @@
 let config = {
-    host: 'mysql://b5a8e7024c6cdd:4f5a046f@us-cdbr-east-02.cleardb.com/heroku_413cbc85ba7bd32?reconnect=true',
-    user: 'b5a8e7024c6cdd',
-    password: '4f5a046f',
-    database: 'heroku_413cbc85ba7bd32'
+    host: 'mysql://b263b71cb1ff35:2576c011@us-cdbr-east-02.cleardb.com/heroku_5174dcb4becea75?reconnect=true',
+    user: 'b263b71cb1ff35',
+    password: '2576c011',
+    database: 'heroku_5174dcb4becea75'
 };
 
 module.exports = config
